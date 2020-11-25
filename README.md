@@ -20,7 +20,11 @@ None of these results are in our database. All are new!
 Should I fetch them? [y/N] 
 ```
 
-Press [y] and it starts fetching the data. It creates a folder named `fasta` and a file named `dataset.csv`.
+Press [y] and it starts fetching the data. 
+
+It creates a folder named `fasta` and a file named `dataset.csv`.
+
+Press Ctrl+C to stop the process. Next time it continues without downloading what it already downloaded.
 
 Dataset contain these fields:
 
